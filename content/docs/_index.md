@@ -5,6 +5,10 @@ next: first-page
 
 This is a demo of the theme's documentation layout.
 
+## 测试
+
+中文
+
 ## Hello, World!
 
 ```go {filename="main.go"}

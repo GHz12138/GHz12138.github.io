@@ -9,15 +9,18 @@ Welcome to my technical blog! I'm a software developer passionate about building
 
 ### Skills
 
-#### Programming Languages
-- Go
-- Python
-- JavaScript/TypeScript
-
-#### Technologies
-- Web Development
-- Cloud Computing
-- Database Design
+{{< cards >}}
+  {{< card title="Programming Languages" icon="code" >}}
+  - Go
+  - Python
+  - JavaScript/TypeScript
+  {{< /card >}}
+  {{< card title="Technologies" icon="server" >}}
+  - Web Development
+  - Cloud Computing
+  - Database Design
+  {{< /card >}}
+{{< /cards >}}
 
 ### Background
 

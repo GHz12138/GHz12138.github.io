@@ -9,18 +9,15 @@ toc: false
 
 ### 技能
 
-{{< cards >}}
-  {{< card title="编程语言" icon="code" >}}
-  - Go
-  - Python
-  - JavaScript/TypeScript
-  {{< /card >}}
-  {{< card title="技术栈" icon="server" >}}
-  - Web 开发
-  - 云计算
-  - 数据库设计
-  {{< /card >}}
-{{< /cards >}}
+#### 编程语言
+- Go
+- Python
+- JavaScript/TypeScript
+
+#### 技术栈
+- Web 开发
+- 云计算
+- 数据库设计
 
 ### 背景
 
